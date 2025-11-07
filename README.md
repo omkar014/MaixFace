@@ -49,7 +49,7 @@ The project aims to provide a modular, open-source framework for embedded AI vis
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/LUNGMEN-ELECTRONICS/MaixFace.git
+   git clone https://github.com/LUNGMEN-GOV/MaixFace.git
    ```
 
 2. Open **MaixPy IDE**, connect your **Maixduino**, and open the main script:
