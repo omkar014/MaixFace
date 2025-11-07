@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "SSID";
+const char* ssid = "SSID"; // the SAME SSID with MaixDuino
 const char* password = "PSWD";
 
 WebServer server(80);
