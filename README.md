@@ -73,7 +73,7 @@ The project aims to provide a modular, open-source framework for embedded AI vis
    - Server information (IP, port, endpoint)  
    - Sleep timeout and wake sensitivity  
 
-3. **Enroll faces remotely** through the provided HTTP interface.
+3. **Enroll faces remotely** through the provided HTTP interface or press the BOOT button if you don't want to establish a web server.
 
 4. **Operation logic:**
    - When a recognized face is detected → sends an HTTP request (e.g., to open a door).  
