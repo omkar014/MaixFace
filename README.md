@@ -84,7 +84,9 @@ This project is an improved version of Sipeed’s official face recognition prog
 
 5. Monitor logs in **MaixPy IDE** to verify detection and communication.
 
-![The Debugging Interface of MaixPy IDE, frameBuffer is more blurred than the real image](1.png)
+
+![Demo Pic1](1.png)
+*The Debugging Interface of MaixPy IDE, frameBuffer is more blurred than the real image*
 
 ---
 
